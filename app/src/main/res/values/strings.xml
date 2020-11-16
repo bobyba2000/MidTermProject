@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MidTermProject</string>
+    
+    <string-array name="spinner_item">
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+</resources>
